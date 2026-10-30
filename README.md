@@ -1,2 +1,2 @@
-# Szentpali-Tanbolt-POS-p-nzt-rral
+# Szentpali-Tanbolt-POS-penztarral
 Gamifikált kereskedelmi oktatószimulátor - pénztár funkcióval
